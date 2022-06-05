@@ -1,0 +1,25 @@
+id: I2C4ADE4D
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-05T20:05:01.124752'
+last_modified: '2022-06-05T20:05:01.124778'
+parser: null
+source_metadata:
+  title: Tarthang Tulku
+  language: en
+  description: 'Texts by Tarthang Tulku Kunga Gelek Yeshe Dorje (dar thang sprul sku
+    kun dga'' dge legs ye shes rdo rje, b. 1935):'
+  volume:
+    f4F9F:
+      title: Prayer to Khandro Tsering Chödrön
+      base_file: f4F9F.txt
+      order: 1
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
